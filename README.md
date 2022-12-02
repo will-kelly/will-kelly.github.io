@@ -1,4 +1,4 @@
-# will-kelly.github.io
+# It's time for me to reintroduce myself
 
 My name is Will Kelly. I’m a product marketer and writer passionate about content's role in technology adoption and moving enterprise deals forward. 
 
