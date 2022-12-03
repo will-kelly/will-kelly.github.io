@@ -1,6 +1,6 @@
 # It's time for me to reintroduce myself
 
-My name is Will Kelly. I’m a product marketer and writer passionate about content's role in technology adoption and moving enterprise deals forward. 
+My name is Will Kelly. I’m a [product marketer and writer](https://www.linkedin.com/in/willkelly/) passionate about content's role in technology adoption and moving enterprise deals forward. 
 
 I got my start as a technical writer. It’s a profession that taught me a lot about people and how people and technology come together as a solution to resolve customer pain points. It was a job I enjoyed but grew out of as a professional as I got more involved in cloud strategy, persona development, messaging, competitive research, white papers, and more marketing content. I found a new passion and challenges leading me to pivot into marketing. 
 
