@@ -8,6 +8,16 @@ My value as a product marketer comes from seeing technology adoption through mul
  
 I’m in the job market for a new position as a Senior Product Marketing Manager or Content Marketing Manager. I’m also open to hearing about the right Principal Writer role too. 
 
+# My DevOps story
+Being a guest on Adventures in DevOps in August 2021 was a highlight of my year. It was a rare opportunity for me to be the interviewee and not the interviewer. One of the questions I was asked stuck with me, and that is what’s my DevOps story?
+
+My adventures in DevOps began with content. I had the opportunity to be a technical writer on teams adopting DevOps for the first time. I knew what software development was like pre-DevOps in all its waterfall glory. Experience taught me that it was best when organizations rolled their own development processes.
+
+Then I went to work in the corporate growth group of a federal systems integrator (FSI), where I worked closely with solution architects to introduce commercial cloud practices and services to the public sector. DevOps and DevSecOps were a part of those solutions. I had the opportunity to develop a range of content and collateral to support these solutions.
+
+While working at the FSI, I had a side hustle as a freelance writer. Writing about DevOps and the cloud for TechTarget and other sites gave me a unique view of where enterprises were in their DevOps and cloud adoptions—writing these articles taught me how to look at the future of DevOps and framing stories against where enterprises are at in their adoption.
+
+Immersing myself in DevOps and the cloud led me to make a career change from technical writing to becoming a technical marketing manager for a container security startup. I worked to help them find a voice in the DevOps market and better understand DevOps adoption in the DoD and public sector.
 
 # My personal productivity stack
 
