@@ -50,5 +50,7 @@ My current writing focus is on DevOps and the cloud. Here are some sites where y
 - [Enable Architect](https://www.redhat.com/architect/users/will-kelly)
 - [InfoQ](https://www.infoq.com/profile/Will-Kelly/)
 
+I've also been known to write just for fun over on [Medium] (https://willkelly.medium.com).
+
 # My writing portfolio
 A portfolio of my [published work](https://authory.com/willkelly) is available.
