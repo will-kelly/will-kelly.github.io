@@ -38,10 +38,7 @@ I’ve written about [Automattic P2](https://wordpress.com/p2/) elsewhere and 
 ## Trello
 I’ve had success using [Trello](https://trello.com/en-US) in the past to manage editorial calendars and [content publishing](https://willkelly.medium.com/using-trello-for-managing-editorial-projects-db27f78cac29). It remains one of my go to tools when I need to communicate publishing processes and timelines to product and engineering management.
 
-## LucidChart
-I’m a Visio guy from way back when. I still like it as an application. Lucid, developers of LucidChart and now Lucidspark, got the online collaboration part of diagramming down early in the game. LucidChart had it down well before [Visio Online](https://www.microsoft.com/en-us/microsoft-365/blog/2017/03/01/visio-online-anywhere-anytime-access-to-your-diagrams/) in fact.
 
-LucidChart also has a solid iOS app that I’ve used to edit diagrams on an iPad Pro.
 
 # Writing experience
 My current writing focus is on DevOps and the cloud. Here are some sites where you can find my work:
