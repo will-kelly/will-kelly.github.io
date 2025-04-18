@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Will Kelly&#39;s Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Will Kelly&#39;s Site</description>
-    <generator>Hugo -- 0.146.5</generator>
+    <title>Welcome on Will Kelly</title>
+    <link>https://will-kelly.github.io/</link>
+    <description>Recent content in Welcome on Will Kelly</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Apr 2025 09:34:05 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Apr 2025 20:32:14 -0400</lastBuildDate>
+    <atom:link href="https://will-kelly.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>http://localhost:1313/posts/test/</link>
-      <pubDate>Fri, 18 Apr 2025 09:34:05 -0400</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
+      <title>My First Post</title>
+      <link>https://will-kelly.github.io/posts/my-first-post/</link>
+      <pubDate>Thu, 17 Apr 2025 20:32:14 -0400</pubDate>
+      <guid>https://will-kelly.github.io/posts/my-first-post/</guid>
       <description></description>
     </item>
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Thu, 17 Apr 2025 20:32:14 -0400</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description></description>
+      <title>Welcome to Archie</title>
+      <link>https://will-kelly.github.io/posts/welcome/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://will-kelly.github.io/posts/welcome/</guid>
+      <description>&lt;p&gt;Archie is in. PaperMod is out. Clean. Simple. Done.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
