@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://will-kelly.github.io/posts/</loc>
-    <lastmod>2025-04-18T09:34:05-04:00</lastmod>
-  </url><url>
-    <loc>https://will-kelly.github.io/</loc>
-    <lastmod>2025-04-18T09:34:05-04:00</lastmod>
-  </url><url>
     <loc>https://will-kelly.github.io/posts/my-first-post/</loc>
     <lastmod>2025-04-17T20:32:14-04:00</lastmod>
   </url><url>
     <loc>https://will-kelly.github.io/posts/my-second-post/</loc>
+    <lastmod>2025-04-17T20:32:14-04:00</lastmod>
+  </url><url>
+    <loc>https://will-kelly.github.io/posts/</loc>
+    <lastmod>2025-04-17T20:32:14-04:00</lastmod>
+  </url><url>
+    <loc>https://will-kelly.github.io/</loc>
     <lastmod>2025-04-17T20:32:14-04:00</lastmod>
   </url><url>
     <loc>https://will-kelly.github.io/posts/welcome/</loc>
