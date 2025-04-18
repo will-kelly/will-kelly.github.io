@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Will Kelly</title>
+    <title>Will Kelly&#39;s Site</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Will Kelly</description>
-    <generator>Hugo</generator>
+    <description>Recent content on Will Kelly&#39;s Site</description>
+    <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 Apr 2025 09:34:05 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -21,13 +21,6 @@
       <pubDate>Thu, 17 Apr 2025 20:32:14 -0400</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>Welcome to Archie</title>
-      <link>http://localhost:1313/posts/welcome/</link>
-      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/welcome/</guid>
-      <description>&lt;p&gt;Archie is in. PaperMod is out. Clean. Simple. Done.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
