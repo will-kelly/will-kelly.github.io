@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="{{ .Site.Language.LanguageCode }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta name="theme-color" content="#111b27">
+  <title>{{ if .IsHome }}{{ .Site.Title }} | AI enablement, content operations & technical strategy{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+  <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="stylesheet" href="{{ "css/site.css" | relURL }}">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="shell header-inner">
+      <a class="wordmark" href="{{ "" | relURL }}" aria-label="Will Kelly, home">Will Kelly<span class="wordmark-dot">.</span></a>
+      <nav aria-label="Main navigation">
+        <a href="{{ "" | relURL }}">Home</a>
+        <a href="{{ "about/" | relURL }}">About</a>
+        <a href="{{ "work/" | relURL }}">Work</a>
+        <a href="{{ "writing/" | relURL }}">Writing</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main">{{ block "main" . }}{{ end }}</main>
+  <footer class="site-footer"><div class="shell footer-inner">
+    <span>© {{ now.Year }} Will Kelly. Built with Hugo.</span>
+    <div><a href="https://www.linkedin.com/in/willkelly/">LinkedIn</a><a href="https://github.com/will-kelly">GitHub</a><a href="https://willkelly.substack.com/">Substack</a></div>
+  </div></footer>
+</body>
+</html>
