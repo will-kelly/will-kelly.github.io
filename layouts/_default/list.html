@@ -1,0 +1,1 @@
+{{ define "main" }}<section class="section shell prose-page"><p class="kicker">WILL KELLY</p><h1>{{ .Title }}</h1><div class="prose">{{ .Content }}</div>{{ range .Pages }}<article class="listing"><h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>{{ with .Description }}<p>{{ . }}</p>{{ end }}</article>{{ end }}</section>{{ end }}
