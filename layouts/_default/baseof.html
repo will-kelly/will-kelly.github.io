@@ -14,18 +14,55 @@
   <header class="site-header">
     <div class="shell header-inner">
       <a class="wordmark" href="{{ "" | relURL }}" aria-label="Will Kelly, home">Will Kelly<span class="wordmark-dot">.</span></a>
-      <nav aria-label="Main navigation">
+      <nav class="main-nav" aria-label="Main navigation">
         <a href="{{ "" | relURL }}">Home</a>
         <a href="{{ "about/" | relURL }}">About</a>
         <a href="{{ "work/" | relURL }}">Work</a>
+        <details class="nav-dropdown">
+          <summary>Research <span class="caret" aria-hidden="true">▾</span></summary>
+          <div class="dropdown-panel">
+            <a href="{{ "collaboration-work/" | relURL }}">Collaboration Work</a>
+            <a href="{{ "collaboration-work/knowledge-operations/" | relURL }}">Knowledge operations</a>
+            <a href="{{ "collaboration-work/ai-and-work/" | relURL }}">AI and work</a>
+            <a href="{{ "collaboration-work/adoption-and-governance/" | relURL }}">Adoption and governance</a>
+            <a href="{{ "collaboration-work/work-systems/" | relURL }}">Work systems</a>
+            <a href="{{ "ai-ethics/" | relURL }}">AI ethics</a>
+          </div>
+        </details>
         <a href="{{ "writing/" | relURL }}">Writing</a>
       </nav>
     </div>
   </header>
   <main id="main">{{ block "main" . }}{{ end }}</main>
-  <footer class="site-footer"><div class="shell footer-inner">
-    <span>© {{ now.Year }} Will Kelly. Built with Hugo.</span>
-    <div><a href="https://www.linkedin.com/in/willkelly/">LinkedIn</a><a href="https://github.com/will-kelly">GitHub</a><a href="https://willkelly.substack.com/">Substack</a></div>
-  </div></footer>
+  <footer class="site-footer">
+    <div class="shell footer-columns">
+      <div class="footer-about">
+        <a class="footer-brand" href="{{ "" | relURL }}">Will Kelly<span class="wordmark-dot">.</span></a>
+        <p>Content and AI workflow strategist. Making knowledge, technology and content systems work in practice.</p>
+      </div>
+      <div class="footer-group">
+        <h2>Explore</h2>
+        <a href="{{ "about/" | relURL }}">About</a>
+        <a href="{{ "work/" | relURL }}">Work</a>
+        <a href="{{ "writing/" | relURL }}">Writing</a>
+      </div>
+      <div class="footer-group">
+        <h2>Research</h2>
+        <a href="{{ "collaboration-work/" | relURL }}">Collaboration Work</a>
+        <a href="{{ "collaboration-work/knowledge-operations/" | relURL }}">Knowledge operations</a>
+        <a href="{{ "collaboration-work/ai-and-work/" | relURL }}">AI and work</a>
+        <a href="{{ "collaboration-work/adoption-and-governance/" | relURL }}">Adoption and governance</a>
+        <a href="{{ "collaboration-work/work-systems/" | relURL }}">Work systems</a>
+        <a href="{{ "ai-ethics/" | relURL }}">AI ethics</a>
+      </div>
+      <div class="footer-group">
+        <h2>Connect</h2>
+        <a href="https://www.linkedin.com/in/willkelly/">LinkedIn</a>
+        <a href="https://github.com/will-kelly">GitHub</a>
+        <a href="https://willkelly.substack.com/">Substack</a>
+      </div>
+    </div>
+    <div class="shell footer-bottom"><span>© {{ now.Year }} Will Kelly. Built with Hugo and GitHub Pages.</span><a href="{{ "" | relURL }}">Back to home</a></div>
+  </footer>
 </body>
 </html>
