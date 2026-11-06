@@ -74,3 +74,5 @@ I can lead with the narrative, map the workflow, work with the technology, and c
 If you're working on a problem where content, knowledge, technology, and execution keep getting separated, that's a conversation worth having.
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/willkelly/) · [View my GitHub](https://github.com/will-kelly) · [Read my Substack](https://willkelly.substack.com/)
+
+I use AI to extend my capabilities, not impersonate capabilities I don't have. My writing and technical work may involve AI-assisted research, drafting, development, and editing. The judgment, conclusions, and accountability remain mine.
