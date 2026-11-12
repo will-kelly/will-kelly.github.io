@@ -13,4 +13,3 @@ The recurring themes are operationalizing AI, enterprise knowledge, technical co
 - [Substack](https://willkelly.substack.com/): essays and ongoing observations.
 - [GitHub](https://github.com/will-kelly): the technical work behind some of the arguments.
 
-Selected article links and case studies can be added here as they are verified.
