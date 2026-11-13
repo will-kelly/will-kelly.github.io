@@ -3,7 +3,7 @@ title: "AI enablement"
 description: "Practical AI enablement: workflow design, knowledge readiness, governance, adoption, and measurable results."
 ---
 
-# AI enablement that gets built
+**AI enablement that gets built.**
 
 AI enablement is not a tool rollout, a prompt library, or a strategy deck that leaves everyone wondering what to do on Monday.
 
