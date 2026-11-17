@@ -16,7 +16,13 @@
       <a class="wordmark" href="{{ "" | relURL }}" aria-label="Will Kelly, home">Will Kelly<span class="wordmark-dot">.</span></a>
       <nav class="main-nav" aria-label="Main navigation">
         <a href="{{ "" | relURL }}">Home</a>
-        <a href="{{ "about/" | relURL }}">About</a>
+        <details class="nav-dropdown">
+          <summary>About <span class="caret" aria-hidden="true">▾</span></summary>
+          <div class="dropdown-panel">
+            <a href="{{ "about/" | relURL }}">About me</a>
+            <a href="{{ "how-i-work/" | relURL }}">How I work</a>
+          </div>
+        </details>
         <a href="{{ "work/" | relURL }}">Work</a>
         <details class="nav-dropdown">
           <summary>Research <span class="caret" aria-hidden="true">▾</span></summary>
